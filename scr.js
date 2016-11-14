@@ -8,7 +8,7 @@ function bestForm() {
     }
 
     //radio buttons
-    checkradio();
+    checkradio();;
     if (!alpha(form["fname"].value))
     {
         alert("full name must only contain letters");
