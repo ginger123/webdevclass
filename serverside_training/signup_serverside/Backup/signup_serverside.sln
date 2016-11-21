@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "signup_serverside", "signup_serverside\signup_serverside.csproj", "{04FC9C04-989A-4179-89AB-48E02B107A89}"
 EndProject
 Global

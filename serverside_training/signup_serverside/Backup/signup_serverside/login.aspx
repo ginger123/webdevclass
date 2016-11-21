@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-<form id="login" runat="server" method="post" action="loginSucess.aspx">
+<form id="login" runat="server" method="post" action="loginSuccess.aspx">
     <div>
         <input type="text" id="uname" name="uname" placeholder="username" /> 
         <input type="password" id="pass" name="pass" placeholder="password" /> 

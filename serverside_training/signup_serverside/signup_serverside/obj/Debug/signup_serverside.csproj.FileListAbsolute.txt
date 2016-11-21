@@ -2,3 +2,8 @@ c:\users\user1\documents\visual studio 2010\Projects\signup_serverside\signup_se
 c:\users\user1\documents\visual studio 2010\Projects\signup_serverside\signup_serverside\bin\signup_serverside.pdb
 c:\users\user1\documents\visual studio 2010\Projects\signup_serverside\signup_serverside\obj\Debug\signup_serverside.dll
 c:\users\user1\documents\visual studio 2010\Projects\signup_serverside\signup_serverside\obj\Debug\signup_serverside.pdb
+C:\Users\Ariel\Documents\GitHub\webdevclass\serverside_training\signup_serverside\signup_serverside\bin\signup_serverside.dll
+C:\Users\Ariel\Documents\GitHub\webdevclass\serverside_training\signup_serverside\signup_serverside\bin\signup_serverside.pdb
+C:\Users\Ariel\Documents\GitHub\webdevclass\serverside_training\signup_serverside\signup_serverside\obj\Debug\signup_serverside.dll
+C:\Users\Ariel\Documents\GitHub\webdevclass\serverside_training\signup_serverside\signup_serverside\obj\Debug\signup_serverside.pdb
+C:\Users\Ariel\Documents\GitHub\webdevclass\serverside_training\signup_serverside\signup_serverside\obj\Debug\signup_serverside.csprojResolveAssemblyReference.cache
