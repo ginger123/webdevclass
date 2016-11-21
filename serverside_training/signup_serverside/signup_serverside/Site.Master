@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="signup_serverside.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <!-- jQuery library -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script src="scr.js" />
+        <!-- Latest compiled JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    My ASP.NET Application
+                </h1>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+    </div>
+</body>
+</html>
